@@ -1,2 +1,2 @@
 # tech-resources
-Resources about IT technology
+Some Resources about IT technology.
